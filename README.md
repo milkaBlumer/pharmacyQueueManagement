@@ -48,6 +48,8 @@ A full-stack application built with C#, .NET Core, Angular 19, and SQL Server, d
 
 🌐 https://github.com/milkaBlumer/pharmacyQueueManagement
 
+---
+
 ## 🛠️ Installation & Setup
 
 Clone the repository:
