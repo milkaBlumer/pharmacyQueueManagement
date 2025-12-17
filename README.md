@@ -7,28 +7,28 @@ A full-stack application built with C#, .NET Core, Angular 19, and SQL Server, d
 
 * **🧑‍💻 Role-based interfaces:**
 
-* 👤 User Interface – for customers to view queue status and join the queue.
+  * 👤 User Interface – for customers to view queue status and join the queue.
 
-* 💊 Pharmacist Interface – for managing the queue and serving customers.
+  * 💊 Pharmacist Interface – for managing the queue and serving customers.
 
-* 🛠️ Admin Interface – for managing users, pharmacists, and system settings.
+  * 🛠️ Admin Interface – for managing users, pharmacists, and system settings.
 
 * **⏱️ Real-time queue management:**
 
-* ⚡ Instant updates – Queue updates happen instantly.
+  * ⚡ Instant updates – Queue updates happen instantly.
 
-* 🔄 Asynchronous handling – Asynchronous entry and exit handling.
+  * 🔄 Asynchronous handling – Asynchronous entry and exit handling.
 
-* 🌐 Synchronization – Across all interfaces to ensure up-to-date information.
+  * 🌐 Synchronization – Across all interfaces to ensure up-to-date information.
 
 * **🔒 Authentication & Security:**
 
-* 🛡️ JWT Token-based authentication for secure login and role-based access control.
+  * 🛡️ JWT Token-based authentication for secure login and role-based access control.
 
 * **🗄️ Database:**
-💾 SQL Server backend for reliable and scalable data storage.
+  * 💾 SQL Server backend for reliable and scalable data storage.
 
-📊 Stores queue data, user information, and role-specific data.
+  * 📊 Stores queue data, user information, and role-specific data.
 
 ---
 
@@ -46,7 +46,7 @@ A full-stack application built with C#, .NET Core, Angular 19, and SQL Server, d
 
 ## 💻 Screenshots / Demo
 
-(Add screenshots or a link to your live demo here)
+https://github.com/milkaBlumer/pharmacyQueueManagement
 
 ## 🛠️ Installation & Setup
 
