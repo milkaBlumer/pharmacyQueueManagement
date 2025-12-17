@@ -5,31 +5,30 @@ A full-stack application built with C#, .NET Core, Angular 19, and SQL Server, d
 
 ## 📌 Features
 
-Role-based interfaces:
+* **🧑‍💻 Role-based interfaces:**
 
-User Interface – for customers to view queue status and join the queue.
+* 👤 User Interface – for customers to view queue status and join the queue.
 
-Pharmacist Interface – for managing the queue and serving customers.
+* 💊 Pharmacist Interface – for managing the queue and serving customers.
 
-Admin Interface – for managing users, pharmacists, and system settings.
+* 🛠️ Admin Interface – for managing users, pharmacists, and system settings.
 
-Real-time queue management:
+* **⏱️ Real-time queue management:**
 
-Queue updates happen instantly.
+* ⚡ Instant updates – Queue updates happen instantly.
 
-Asynchronous entry and exit handling.
+* 🔄 Asynchronous handling – Asynchronous entry and exit handling.
 
-Synchronization across all interfaces to ensure up-to-date information.
+* 🌐 Synchronization – Across all interfaces to ensure up-to-date information.
 
-Authentication & Security:
+* **🔒 Authentication & Security:**
 
-JWT Token-based authentication for secure login and role-based access control.
+* 🛡️ JWT Token-based authentication for secure login and role-based access control.
 
-Database:
+* **🗄️ Database:**
+💾 SQL Server backend for reliable and scalable data storage.
 
-SQL Server backend for reliable and scalable data storage.
-
-Stores queue data, user information, and role-specific data.
+📊 Stores queue data, user information, and role-specific data.
 
 ---
 
@@ -49,7 +48,7 @@ Stores queue data, user information, and role-specific data.
 
 (Add screenshots or a link to your live demo here)
 
-🛠️ Installation & Setup
+## 🛠️ Installation & Setup
 
 Clone the repository:
 
@@ -57,6 +56,8 @@ git clone <repo-link>
 
 
 Set up the SQL Server database and update the connection string in appsettings.json.
+
+---
 
 **Run the backend:**
 
@@ -70,6 +71,8 @@ ng serve
 
 
 Open the application at http://localhost:4200.
+
+---
 
 ## **🚀 Usage**
 Users can join the queue and see their position in real-time.
