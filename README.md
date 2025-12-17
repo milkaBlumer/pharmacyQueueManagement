@@ -64,7 +64,7 @@ Set up the SQL Server database and update the connection string in appsettings.j
 dotnet run
 
 
-Navigate to the Angular frontend folder and run:
+**Navigate to the Angular frontend folder and run:**
 
 npm install
 ng serve
