@@ -1,6 +1,6 @@
 ## 🏥 Pharmacy Queue Management System
-
 A full-stack application built with C#, .NET Core, Angular 19, and SQL Server, designed to efficiently manage queues in a pharmacy environment.
+
 ---
 
 ## 📌 Features
